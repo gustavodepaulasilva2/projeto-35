@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"path": "..\\..\\PRO-V2-C35-MovBolaSinc-AA1-main"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "PRO-V2-C35-Modelo-main"
+	}
+}
